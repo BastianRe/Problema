@@ -1,0 +1,12 @@
+#include<stdio.h>
+     
+ main(){
+
+char nombre[10];
+
+printf("ingrese su nombre: ");
+scanf("%s", nombre);
+
+printf("Hola %s", nombre);
+
+}
